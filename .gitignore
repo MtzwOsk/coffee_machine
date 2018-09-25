@@ -4,3 +4,4 @@ env
 src/logs/*.*
 *.pyc
 __pycache__
+*.log
